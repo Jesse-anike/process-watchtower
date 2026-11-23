@@ -1,0 +1,4 @@
+# Example allowlist for this lab only
+systemd
+sshd
+cron
